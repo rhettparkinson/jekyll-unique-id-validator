@@ -11,14 +11,14 @@ If your Jekyll project doesn't have a `_plugins` directory, simply create one at
 
 ## Usage
 
-After installation, the plugin will automatically check for post IDs every time you build your Jekyll site. If any post is missing an ID or if there are duplicate IDs, the build will fail, and an error message will be displayed, pointing out the issue.
+After installation, the plugin will automatically check for post's unique ID every time you build your Jekyll site. If any post is missing a unique ID or if there are duplicate unique IDs, the build will fail, and an error message will be displayed, pointing out the issue.
 
 ### Frontmatter Format
 
 For the plugin to work correctly, ensure each post has an `id` in its frontmatter:
 ```yaml
 ---
-id: 001
+uid: 001
 title: "Sample Post"
 ---
 ```
