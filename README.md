@@ -7,7 +7,7 @@
 1. Download `jekyll-unique-id-validator.rb` from this repository.
 2. Place the downloaded file into your Jekyll site's `_plugins` directory.
    
-If your Jekyll project doesn't have a _plugins directory, simply create one at the root level and then place the plugin file there.
+If your Jekyll project doesn't have a `_plugins` directory, simply create one at the root level and then place the plugin file there.
 
 ## Usage
 
