@@ -1,6 +1,6 @@
 # jekyll-unique-id-validator
 
-`jekyll-unique-id-validator` is a Jekyll plugin that ensures each post has a unique ID in its frontmatter. This plugin helps prevent content inconsistencies by halting the build process if duplicate or missing IDs are detected. It's especially useful for Jekyll websites where post IDs are manually assigned and serve crucial functions like referencing in databases.
+`jekyll-unique-id-validator` is a Jekyll plugin that ensures each post has a unique ID in its frontmatter. This plugin helps prevent content inconsistencies by halting the build process if duplicate or missing IDs are detected. It's especially useful for Jekyll websites where post unique IDs are manually assigned and serve crucial functions like referencing in databases.
 
 ## Installation
 
