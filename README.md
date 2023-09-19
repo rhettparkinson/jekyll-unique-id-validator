@@ -4,7 +4,7 @@
 
 ## Installation
 
-1. Add the following to your site's Gemfile:
+1. Add the following to your site's `Gemfile`:
 ```bash
 gem "jekyll-unique-id-validator"
 ```
