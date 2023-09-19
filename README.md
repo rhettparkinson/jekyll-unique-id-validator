@@ -35,9 +35,3 @@ title: "Sample Post"
 ### Contributing
 
 Pull requests are welcome! If you have improvements or encounter any issues, please report them as GitHub issues.
-
-### License
-
-This project is open source and available under the [MIT License](https://chat.openai.com/c/LICENSE.md).
-
-
