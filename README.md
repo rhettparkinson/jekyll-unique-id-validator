@@ -38,6 +38,6 @@ Pull requests are welcome! If you have improvements or encounter any issues, ple
 
 ### License
 
-This project is open source and available under the (MIT License)[https://chat.openai.com/c/LICENSE.md].
+This project is open source and available under the [MIT License](https://chat.openai.com/c/LICENSE.md).
 
 
