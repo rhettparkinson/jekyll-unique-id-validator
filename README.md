@@ -4,19 +4,10 @@
 
 ## Installation
 
-1. Add the following to your site's `Gemfile`:
-```bash
-gem "jekyll-unique-id-validator"
-```
-2. Then, run:
-```bash
-bundle install
-```
-3. Add the plugin to your site's `_config.yml`:
-```yaml
-plugins:
-  - jekyll-unique-id-validator
-```
+1. Download jekyll-unique-id-validator.rb from this repository.
+2. Place the downloaded file into your Jekyll site's _plugins directory.
+   
+If your Jekyll project doesn't have a _plugins directory, simply create one at the root level and then place the plugin file there.
 
 ## Usage
 
