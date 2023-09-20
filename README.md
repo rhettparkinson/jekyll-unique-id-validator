@@ -15,10 +15,10 @@ After installation, the plugin will automatically check for post's unique ID eve
 
 ### Frontmatter Format
 
-For the plugin to work correctly, ensure each post has an `id` in its frontmatter:
+For the plugin to work correctly, ensure each post has a `uid` in its frontmatter:
 ```yaml
 ---
-uid: 001
+uid: "001"
 title: "Sample Post"
 ---
 ```
