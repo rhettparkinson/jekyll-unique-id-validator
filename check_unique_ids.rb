@@ -29,8 +29,8 @@ module Jekyll
         if uid.nil?
           print_error("Post '#{title}' does not have an UID!")
           raise "Post UID Error"
-        elsif encountered_ids.include?(id)
-          print_error("Duplicate UID '#{id}' found in post '#{title}'!")
+        elsif encountered_uids.include?(id)
+          print_error("Duplicate UID '#{uid}' found in post '#{title}'!")
           raise "Duplicate UID Error"
         else
           encountered_uids.add(uid)
